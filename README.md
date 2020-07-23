@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learing and Android projects
 - 💬 Ask me about Android and Machine Learning solutions
 - 📫 How to reach me: indrajitkumar@hotmail.com/+91-7406812344
+- 😄 Pronouns: He/His
 -->
