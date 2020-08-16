@@ -3,8 +3,6 @@
 <!--
 **indrajitkumar/indrajitkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p  align="center"><img height="450" src = "https://media.giphy.com/media/m9vR4n6NNzWJGn9mO7/giphy.gif"></p>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Philips
@@ -22,5 +20,5 @@ Here are some ideas to get you started:
 
 ###            👇🏻👇🏻👇🏻👇🏻 You can reach me out for detailed information at .👇🏻👇🏻👇🏻👇🏻
    [**PORTFOLIO**](https://indrajitkumar.herokuapp.com/)
-                                             https://indrajitkumar.herokuapp.com/
+                                            https://indrajitkumar.herokuapp.com/
     
