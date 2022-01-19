@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Philips
+- 🔭 I’m currently working in Philips
 - 🌱 I’m currently learning and practicing AI and ML
 - 👯 I’m looking to collaborate on Machine Learing and Android projects
 - 💬 Ask me about Android and Machine Learning solutions
